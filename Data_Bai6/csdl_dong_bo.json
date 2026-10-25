@@ -1,0 +1,79 @@
+﻿{
+  "DanhSachNguoiDung": [
+    {
+      "IDNCC": 1,
+      "HoVaTen": "V\u0169 Tu\u1EA5n Ki\u1EC7t",
+      "QuyenHan": "Admin"
+    },
+    {
+      "IDNCC": 2,
+      "HoVaTen": "Nguy\u1EC5n Th\u1ECB Mai",
+      "QuyenHan": "\u0110\u1EA7u b\u1EBFp"
+    },
+    {
+      "IDNCC": 3,
+      "HoVaTen": "Tr\u1EA7n V\u0103n H\u00F9ng",
+      "QuyenHan": "Th\u00E0nh vi\u00EAn"
+    },
+    {
+      "IDNCC": 5,
+      "HoVaTen": "Ph\u1EA1m Gia Khang",
+      "QuyenHan": "Kh\u00E1ch"
+    },
+    {
+      "IDNCC": 6,
+      "HoVaTen": "kkk",
+      "QuyenHan": "Th\u00E0nh vi\u00EAn"
+    }
+  ],
+  "DanhSachMonAn": [
+    {
+      "IDMA": 10,
+      "TenMonAn": "Sushi",
+      "HinhAnh": "Images\\20261024_220939813_Sushi.jpg",
+      "IDNCC": 1
+    },
+    {
+      "IDMA": 11,
+      "TenMonAn": "B\u00E1nh canh",
+      "HinhAnh": "Images\\20261024_221001046_b\u00E1nh canh.jpg",
+      "IDNCC": 1
+    },
+    {
+      "IDMA": 12,
+      "TenMonAn": "C\u01A1m t\u1EA5m",
+      "HinhAnh": "Images\\20261024_221039578_C\u01A1m t\u1EA5m.jpg",
+      "IDNCC": 1
+    },
+    {
+      "IDMA": 13,
+      "TenMonAn": "C\u01A1m \u0111\u00F9i g\u00E0 chi\u00EAn n\u01B0\u1EDBc m\u1EAFm",
+      "HinhAnh": "Images\\20261024_221113262_\u0110\u00F9i g\u00E0 chi\u00EAn n\u01B0\u1EDBc m\u1EAFmjpg.jpg",
+      "IDNCC": 2
+    },
+    {
+      "IDMA": 14,
+      "TenMonAn": "H\u00E1 c\u1EA3o",
+      "HinhAnh": "Images\\20261024_221132044_H\u00E1 c\u1EA3o.jpg",
+      "IDNCC": 3
+    },
+    {
+      "IDMA": 15,
+      "TenMonAn": "Ph\u1EDF b\u00F2",
+      "HinhAnh": "Images\\20261024_221153701_Ph\u1EDF b\u00F2.jpg",
+      "IDNCC": 3
+    },
+    {
+      "IDMA": 16,
+      "TenMonAn": "Nem n\u01B0\u1EDBng",
+      "HinhAnh": "Images\\20261024_221211387_Nem n\u01B0\u1EDBng.jpg",
+      "IDNCC": 2
+    },
+    {
+      "IDMA": 18,
+      "TenMonAn": "B\u00FAn ri\u00EAu",
+      "HinhAnh": "Images\\20261025_103311865_b\u00FAn ri\u00EAu.jpg",
+      "IDNCC": 6
+    }
+  ]
+}
